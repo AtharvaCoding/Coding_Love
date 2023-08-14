@@ -6,6 +6,12 @@ void swap(int *a, int *b)
     int temp = *a;
     *a = *b;
     *b = temp;
+    // fdsajfhdsakj''
+
+
+    // fdsaf
+    // dsaf
+    // dsaf
 }
 
 // void bubbleSort(int arr[], int len)
